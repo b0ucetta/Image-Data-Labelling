@@ -1,0 +1,27 @@
+body 
+{
+	margin: 0px;
+}
+.title
+{
+	position: relative;
+	left: 50%;
+	top: 10px;
+	transform: translateX(-50%);
+	text-align: center;
+}
+.informations
+{
+	position: relative;
+	display: inline-block; 
+	left: 8px;
+}
+.info
+{
+	position: relative;
+	display: inline-block;
+}
+.data
+{
+	left: 8px;
+}
