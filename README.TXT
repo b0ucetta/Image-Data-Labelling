@@ -10,5 +10,3 @@
  if you work on windows you may find errors in this case check 
  the php part in the source code.
 -to obtain correct coordinates compatible with opencv you have to start from top_left to bottom_right
-
-Gmail: salah.eddine.boucetta6@gmail.com
